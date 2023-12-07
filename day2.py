@@ -1,4 +1,3 @@
-# Game 1: 4 red, 1 green, 15 blue; 6 green, 2 red, 10 blue; 7 blue, 6 green, 4 red; 12 blue, 10 green, 3 red
 import re
 
 red = 12
